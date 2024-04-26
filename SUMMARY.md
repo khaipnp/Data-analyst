@@ -4,4 +4,4 @@
 
 ## 💾 Học SQL <a href="#learning-sql" id="learning-sql"></a>
 
-* [📚 Cơ bản](learning-sql/co-ban.md)
+* [1. Cơ bản](learning-sql/1.-co-ban.md)
