@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Data](README.md)
+* [Lời mở đầu](README.md)
+* [📚 Cú pháp](cu-phap.md)
